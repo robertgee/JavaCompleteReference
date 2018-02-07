@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chap10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap24" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap31" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap32" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap33" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap34" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap35" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap36" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap37" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap9" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
